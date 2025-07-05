@@ -1,0 +1,6 @@
+.env
+artifacts/
+dashboard-env/
+__pycache__/
+pages/.DS_Store
+.DS_Store
