@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-import plotly.graph_objects as go
 import os
 from dotenv import load_dotenv
 from sqlalchemy import create_engine
